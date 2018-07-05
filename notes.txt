@@ -1,0 +1,14 @@
+To connect to MongoDB
+1. type in google 'node mongodb native
+2. select GitHub-mongodb/node-mongodb-native:.....................
+3. open cmd
+4. go to c:\Program Files\MongoDB\Server\3.6\bin>
+5. type below given command
+   mongod.exe --dbpath /Users/Priya/mongo-data
+
+-----------------------------------------------------------
+
+6. Open one more commnd prompt
+Go till bin and type mongo.exe
+
+Step 6 is not needed... only if we wish to exexcute commands in cmd.
