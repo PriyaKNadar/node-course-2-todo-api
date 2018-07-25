@@ -6,6 +6,8 @@ To connect to MongoDB
 5. type below given command
    mongod.exe --dbpath /Users/Priya/mongo-data
 
+Heroku : Acc name: PriyaKNadar Login id : PriyaK DBName: testdb1 user name: db1 pwd: abcd1234
+
 -----------------------------------------------------------
 
 6. Open one more commnd prompt
